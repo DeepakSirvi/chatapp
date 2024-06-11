@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "socket-server.host",
+    "type": "java.lang.String",
+    "description": "A description for 'socket-server.host'"
+  },
+  {
+    "name": "socket-server.port",
+    "type": "java.lang.String",
+    "description": "A description for 'socket-server.port'"
+  },
+  {
+    "name": "app.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'app.secret'"
+  },
+  {
+    "name": "cloud.secret-key",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud.secret-key'"
+  },
+  {
+    "name": "cloud.api-key",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud.api-key'"
+  },
+  {
+    "name": "cloud.name",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud.name'"
+  },
+  {
+    "name": "app.path",
+    "type": "java.lang.String",
+    "description": "A description for 'app.path'"
+  }
+]}
